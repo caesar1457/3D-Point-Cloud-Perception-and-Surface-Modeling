@@ -16,7 +16,7 @@ The pipeline includes two major components:
 - **Performance Metrics**: Confusion matrix, ROC curves, Area Under the Curve (AUC), F1 Score
 
 <div align="center">
-  <img src="figures/classification/SVM_test.png" width="480">
+  <img src="classification/SVM_test.png" width="480">
   <p><em>SVM Classification Results (Test Set)</em></p>
 </div>
 
@@ -28,7 +28,7 @@ The pipeline includes two major components:
 - **Evaluation**: Mean Squared Error (MSE), Root Mean Squared Error (RMSE), residual analysis, and uncertainty calibration
 
 <div align="center">
-  <img src="figures/modeling/Ground Truth + GP Prediction + Uncertainty (3-in-1).png" width="600">
+  <img src="modeling/Ground Truth + GP Prediction + Uncertainty (3-in-1).png" width="600">
   <p><em>Gaussian Process surface reconstruction with uncertainty</em></p>
 </div>
 
